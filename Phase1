@@ -2,3 +2,4 @@ This is just a starting of learning
 let a=3;
 const name=priya;
 console.log(name);
+console.log(a);
